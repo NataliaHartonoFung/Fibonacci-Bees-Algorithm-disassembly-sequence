@@ -2,9 +2,8 @@
 %   Fibonacci Bees Algorithm for Robotic Disassembly Sequence Problem    %
 %   Natalia Hartono and Duc Truong Pham                                  %
 %   This code accompanied the paper: A Novel Fibonacci-inspired          %
-%   enhancement                                                          %
-%   of the Bees Algorithm: Application to Robotic Disassembly Sequence   %
-%   Planning                                                             %
+%   enhancement of the Bees Algorithm: Application to Robotic            %
+%   Disassembly Sequence Planning                                        %
 %                                                                        %
 %   This BAF code was build upon the code from this paper:               %
 %   https://doi.org/10.1080/00207543.2017.1412527                        %
