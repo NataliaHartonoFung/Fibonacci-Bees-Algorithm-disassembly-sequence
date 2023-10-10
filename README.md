@@ -5,4 +5,5 @@ This BAF code was build upon the code from this paper: https://doi.org/10.1080/0
 
 # How to run the program
 Open Main.m and run.
+
 User can change the parameters, however, please refer to the paper for guidance of the parameters. 
