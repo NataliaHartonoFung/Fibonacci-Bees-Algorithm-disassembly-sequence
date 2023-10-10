@@ -4,5 +4,5 @@ This code accompanied the paper: A Novel Fibonacci-inspired enhancement of the B
 This BAF code was build upon the code from this paper: https://doi.org/10.1080/00207543.2017.1412527 Robotic disassembly sequence planning using enhanced discrete bees algorithm in remanufacturing, International Journal of Production Research, Volume 56, 2018, issue 9, authors: Jiayi Liu, Zude Zhou, Duc Truong Pham, Wenjun Xu, Chuqian Ji,Quan Liu
 
 # How to run the program
-Open Main.m and run
+Open Main.m and run.
 User can change the parameters, however, please refer to the paper for guidance of the parameters. 
