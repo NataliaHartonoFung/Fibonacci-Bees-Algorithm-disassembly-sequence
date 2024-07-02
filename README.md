@@ -10,3 +10,5 @@ This BAF code was build upon the code from this paper: https://doi.org/10.1080/0
 Open Main.m and run.
 
 User can change the parameters, however, please refer to the paper for guidance of the parameters. 
+
+To calculate total population or find combinations of possible parameters, use the zip file: "BAFcalculatepop.zip".
