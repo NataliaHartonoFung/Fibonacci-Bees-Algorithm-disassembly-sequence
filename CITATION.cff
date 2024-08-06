@@ -9,21 +9,3 @@ version: 1.0.0
 doi: 10.5281/zenodo.11657644
 date-released: 2024-06-15
 url: "https://github.com/NataliaHartonoFung/Fibonacci-Bees-Algorithm-disassembly-sequence"
-preferred-citation:
-  type: article
-  authors:
-  - family-names: "Hartono"
-    given-names: "Natalia"
-    orcid: "https://orcid.org/0000-0003-2314-1394"
-  - family-names: "Pham"
-    given-names: "DT"
-    orcid: "https://orcid.org/0000-0003-3148-2404"
-  doi: https://doi.org/10.1080/23311916.2023.2298764
-  journal: "Cogent Engineering"
-  month: 1
-  start: 1 # First page number
-  end: 27 # Last page number
-  title: "A novel Fibonacci-inspired enhancement of the Bees Algorithm: application to robotic disassembly sequence planning"
-  issue: 11
-  volume: 1
-  year: 2024
